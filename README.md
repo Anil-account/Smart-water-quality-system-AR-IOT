@@ -6,7 +6,7 @@ Video link:  https://youtu.be/cBpQnGSOgQ4
 
 
 
-Introduction
+<p>Introduction</p>
 The smart water quality system analyzes data from the sensor to determine the pH of the water, which is then presented in Augmented Reality (AR) on a smartphone or laptop. Along with the advancement of Virtual Reality (VR) technology, Augmented Reality (AR) is quickly gaining traction. As a result, a smart water quality system incorporating AR was created to illustrate AR. To view the system's output, the user just needs to place the PH sensor in the water and the DHT11 sensor nearby, while supplying the Arduino and NodeMCU with the bare minimum of power. Data starts to appear in the system on its own. The data is then shown in an android software called Blynk, and subsequently in augmented reality on an Android phone using the Android Package (APK) format.
 
 
