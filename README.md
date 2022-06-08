@@ -24,6 +24,8 @@ The pin connectors for various devices are shown below.
 <p>
     The table shown below shows connection between pH sensor and Arduino.
 </p>
+
+
 ![image](https://user-images.githubusercontent.com/57608136/172221422-6a4c89c1-a4ab-4a14-89cb-a48ef4e649b0.png)
 
  
@@ -33,6 +35,8 @@ The pin connectors for various devices are shown below.
 <p>
     The table shown below shows connection between DHT11 sensor and NodeMCU.
 </p>
+
+
 ![image](https://user-images.githubusercontent.com/57608136/172221455-0cd01944-26de-40e1-9097-6c44e9a3d0e7.png)
 
  
@@ -42,6 +46,7 @@ The pin connectors for various devices are shown below.
 <p>
     The table shown below shows connection between Arduino and NodeMCU.
 </p>
+
  
 ![image](https://user-images.githubusercontent.com/57608136/172221464-ec5ea595-a183-498a-b90e-dd561ebe046c.png)
 
@@ -58,6 +63,7 @@ The Unity program is used to make AR pictures. A virtual 3D dashboard is created
 <p>
     Here is the final output of the project.
 </p>
+
  
 ![image](https://user-images.githubusercontent.com/57608136/172221537-b2742f2b-b251-48bb-bc96-5f9b31a22b95.png)
 
@@ -72,7 +78,10 @@ The Unity program is used to make AR pictures. A virtual 3D dashboard is created
     The sketch shown below is a circuit diagram of smart IoT water quality system
 </p>
  
+ 
 ![image](https://user-images.githubusercontent.com/57608136/172221631-c0fe8f68-4802-4c65-9330-dc964936d07e.png)
+
+
 <p>
     Figure 12: circuit diagram
 </p>
@@ -84,7 +93,11 @@ The Unity program is used to make AR pictures. A virtual 3D dashboard is created
 <p>
     The sketch shown below is a block diagram shows flow of system 
 </p>
+
+
 ![image](https://user-images.githubusercontent.com/57608136/172221740-694f11c1-f1a2-4e9f-854b-748dfc410dd6.png)
+
+
 <p>
     Figure 13: Block diagram
 </p>
@@ -97,6 +110,8 @@ The Unity program is used to make AR pictures. A virtual 3D dashboard is created
 <h5>
     Flowchart
 </h5>
+
+
  ![image](https://user-images.githubusercontent.com/57608136/172221770-1cd5a198-cc42-49ae-87f7-9c4a2090515d.png)
 
  
@@ -104,21 +119,26 @@ The Unity program is used to make AR pictures. A virtual 3D dashboard is created
     
      Schematic diagram
 </h5>
+
+
 ![image](https://user-images.githubusercontent.com/57608136/172221825-fb262ca5-1f55-43cd-a024-dd978165fd58.png)
+
+
 <p>
     
     Figure 14: Schematic diagram
 </p>
 
 
-
-
-
 <h5>
     For Unity (AR)
 </h5>
 The code shown below is for the virtual button, which on pressed sends request signal to Blynk server and receives data and later displayed on AR dashboard. 
+
+
  ![image](https://user-images.githubusercontent.com/57608136/172221914-25195a85-0154-48b0-a7e1-789ea03651d4.png)
+ 
+ 
 ![image](https://user-images.githubusercontent.com/57608136/172221929-b04daf97-d906-4785-828a-97f77d1c36ef.png)
 
  
